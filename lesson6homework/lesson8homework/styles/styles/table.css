@@ -1,0 +1,20 @@
+table, th,td {
+    border: 2px solid blueviolet;
+}
+table, th, td {
+    font-family: 'Cute Font', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
+td {
+    color: black;
+   padding: 12px;
+}
+th {
+    color: blue;
+}
+.blog1 {
+    border: 2px solid;
+}
+.vlog1 {
+    border: 2px solid;
+}

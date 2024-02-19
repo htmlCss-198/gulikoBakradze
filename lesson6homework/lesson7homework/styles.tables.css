@@ -1,0 +1,21 @@
+table,th,td {
+    border: 2px solid rgb(26, 3, 128)
+}
+.face, .insta, .twit {
+    border: dashed red
+}
+table {
+ text-align: center;
+}
+td {
+    color: blueviolet;
+}
+td :hover {
+    background-color: aqua;
+    cursor: pointer;
+}
+.face, .insta, .twit {
+    display: block;
+    display: flex;
+    color: blue;
+}

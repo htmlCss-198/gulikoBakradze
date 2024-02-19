@@ -1,0 +1,7 @@
+h2 {
+    text-align: center;
+}
+a, div {
+    position: relative;
+    left: 5px;
+}
