@@ -1,0 +1,46 @@
+table,th,td {
+    border: 2px solid rgb(26, 3, 128)
+}
+.proggram1, .proggram2, .proggram3, .proggram4 {
+    border: dashed rgb(8, 155, 21)
+}
+.proggram1, .proggram2, .proggram3, .proggram4 {
+    display: block;
+    display: flex;
+}
+table {
+ text-align: center;
+}
+td {
+    color: rgb(145, 4, 4);
+}
+#proggram2:hover {
+    background-color: green;
+    cursor: pointer;
+}
+.proggraming {
+    padding: 40px;
+    border-radius: 10px;
+}
+.proggraming:focus {
+    color: rgb(143, 7, 41);
+    background-color: aqua;
+}
+.submit :hover {
+    background-color: rgb(13, 26, 202);
+}
+.submit:active {
+color: rgb(4, 156, 12);
+}
+.submit {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+input {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
